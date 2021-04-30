@@ -1,0 +1,404 @@
+
+
+.bg-color {
+    background-color: #332335;
+}
+
+/*----Top Banner----*/
+
+#top-banner {
+    min-height: 25px;
+    position: absolute;
+
+}
+
+/*----Header----*/
+
+.header-style {
+    padding-top: 25px;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+/*----Navbar----*/
+
+.navbar-wrapper {
+    background-color: white;
+}
+
+/*----Navbar Links----*/
+
+.nav-link {
+    padding-right: 30px;
+    font-size: large;
+    font-weight: 500;
+    margin-right: 50px;
+    font-family: "Oswald";
+    color: #333333!important;
+}
+
+.nav-link:hover {
+    color: #663399 !important;
+    text-decoration: none;
+}
+
+.navbar-nav .active {
+    color: #32174d !important;
+}
+
+/*----Catchy line----*/
+
+.nav-link-top {
+    font-size: x-large;
+    color: black;
+    text-decoration: none;
+    font-family: "Oswald";
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nav-link-top:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+/*----Div Home Cards home----*/
+
+.home-card-style {
+    font-family: "Oswald";
+}
+
+/*----Top menu----*/
+
+.list-unstyled-feedback p,h5 {
+    font-family: "Oswald";
+}
+
+.link-winelist {
+    font-family: "Oswald";
+    color: black;
+    font-size: 16px;
+}
+
+.link-winelist:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+/*----Title bottom----*/
+
+.title-bottom-home {
+    font-family: "Oswald";
+    color: black;
+    font-size: 32px;
+    margin-top: 50px;
+}
+
+/*----Feedback part home----*/
+
+.list-unstyled-feedback {
+    margin-left: auto;
+    color: black;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+li h6 {
+    font-family: "oswald";
+}
+
+/*----Footer----*/
+
+.footer-style {
+position: sticky;
+min-width:100%;
+max-width:100%;
+top: 940px;
+display: flex;
+flex-direction: column;
+}
+
+.new-link-footer {
+    font-size: 40px;
+}
+
+.new-link-footer i {
+    color: #ffffff;
+
+}
+
+.new-link-footer:hover i {
+    color: #663399 !important;
+    text-decoration: none;
+}
+
+/*----Footer text----*/
+
+.footer-text {
+    font-size: 20px;
+    font-family: "Oswald";
+    font-weight: 400;
+    margin: 0 auto;
+    color: #ffffff;
+    padding-top: 40px;
+}
+
+.footer-text i {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/*----Footer email link----*/
+
+#email-link:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+/*----Footer phone link----*/
+
+#phone-link:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+/*----Footer btn----*/
+
+.top-nav-button a {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Oswald";
+    color: white;
+    border: 2px solid #ffffff;
+}
+
+.btn i {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.top-nav-button a:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.btn-align {
+    text-align: center;
+}
+
+/*----About us page beginning----*/
+
+.img-thumbnail {
+    background-color: #332335;
+}
+
+.about-us-intro {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: "oswald";
+    font-weight: 400;
+    font-size: larger;
+}
+
+#driving-force {
+    font-family: "oswald";
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.card-text-staff {
+    font-family: "oswald";
+    font-size: 18px;
+}
+
+.container-card-staff {
+    margin-bottom: 50px;
+}
+
+
+.bg-color-form {
+    background-color: #967d9a;
+}
+
+.form-style {
+    margin: 0 auto;
+    width:60%;
+    margin-bottom: 100px;
+    padding: 30px;
+    font-family: "oswald";
+    font-size: 18px;
+    color: black;
+}
+
+.btn-primary {
+    color: black;
+}
+
+#privacy-statement {
+    color: black;
+    font-family: "oswald";
+    padding-top: 10px;
+    font-size: 16px;
+    text-decoration: underline;
+}
+#form-titles {
+    text-align: center;
+
+}
+
+#subscribe-title {
+    font-family: "oswald";
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+#ab-us-form-intro {
+    font-family: "oswald";
+    margin-bottom: 25px;
+    
+}
+
+/*----About us page end----*/
+
+/*----Menu page beginning----*/
+
+.menu-features {
+    font-family: "oswald";
+    color: black;
+}
+
+.card-text {
+    font-family: "oswald";
+    font-weight: lighter;
+}
+
+.menu-features {
+    margin-top: 20px;
+}
+
+.card-deck {
+    margin-bottom: 20px;
+}
+
+.menu-list-bottom {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.fa-exclamation-triangle {
+    margin-left: 5px;
+}
+
+/*----Menu page page ends----*/
+
+/*----Gallery page beginning----*/
+
+.container-gallery {
+    position: relative;
+    column-count: 4;
+    padding: 20px;
+}
+
+.image-gallery {
+    display: inline-block;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.img-gallery {
+    width: 100%;
+    transition: 0.25s ease-in-out;
+}
+
+.image-gallery:hover img {
+    transform: scale(1.1);
+}
+
+h5 {
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    font-size: 25px;
+    background: #5c5c5c;
+    color: #ffffff;
+    border-radius: 5px;
+    opacity: 0;
+    z-index: 1;
+    transition: 0.25s ease-in-out;
+}
+
+.image-gallery:hover h5 {
+    opacity: 0.5;
+
+}
+
+/*----@Media queries Gallery----*/
+
+@media screen and (max-width: 1024px){
+    h5 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .container-gallery {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 425px){
+
+    .container-gallery {
+        column-count: 2;
+    }
+
+    h5 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 375px){
+
+    .container-gallery {
+        column-count: 1;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+}
+
+#masterpiece {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: "oswald";
+}
+
+#embedded-video {
+    margin-top: 15px;
+}
+
+#iframe-video {
+    border: 0;
+}
+
+#reach-us {
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-family: "oswald";
+}
+
+#embedded-map {
+    margin-bottom: 50px;
+}
+
+/*----Gallery page ends----*/
+
